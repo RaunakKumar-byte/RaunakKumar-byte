@@ -1,4 +1,4 @@
-## Hi there 👋
+![logo](https://github.com/RaunakKumar-byte/RaunakKumar-byte/blob/main/Screenshot%202025-06-22%20154456.png)
 
 <h1 align="center">Hi 👋, I'm Raunak Kumar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
