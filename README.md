@@ -1,29 +1,168 @@
-![logo](https://github.com/RaunakKumar-byte/RaunakKumar-byte/blob/main/Screenshot%202025-06-22%20154456.png)
 
-<h1 align="center">Hi 👋, I'm Raunak Kumar</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
 
 <img align="right" alt="codeing" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raunakkumar-byte&label=Profile%20views&color=0e75b6&style=flat" alt="raunakkumar-byte" /> </p>
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/raunak-singh-354839287](www.linkedin.com/in/raunak-singh-354839287)
-
-- 📫 How to reach me **singhraunakkumar524@gmail.com**
-
-- ⚡ Fun fact **🙂**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/raunak singh(raunak kumar)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raunak singh(raunak kumar)" height="30" width="40" /></a>
-<a href="https://instagram.com/byte-by-rsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="byte-by-rsingh" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raunakkumar-byte&show_icons=true&locale=en&layout=compact" alt="raunakkumar-byte" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raunakkumar-byte&show_icons=true&locale=en" alt="raunakkumar-byte" /></p>
-
+-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raunakkumar-byte&" alt="raunakkumar-byte" /></p>
+
+Frontend
+
+HTML CSS Bootstrap React.js Angular
+
+Backend
+
+Node.js Express.js REST APIs MVC Architecture
+
+Databases
+
+MySQL MongoDB PostgreSQL
+
+Developer Tools
+
+Git GitHub VS Code Postman MongoDB Atlas
+
+Computer Science
+
+Data Structures & Algorithms OOP DBMS Operating Systems Computer Networks
+
+Soft Skills
+
+Problem Solving Communication Team Collaboration Time Management
+
+Experience
+
+Codeship Private Limited — Full Stack Developer Intern
+
+Chennai, India · Jul 2025 – Sep 2025
+
+Developed and maintained full-stack web applications using Node.js, Express.js, MongoDB, and Angular.
+
+Designed and implemented RESTful APIs, database models, and backend services following MVC architecture.
+
+Worked on Xity, YMCA, and Xcros, contributing to application development and feature implementation.
+
+Built a Business Listing Portal enabling businesses to register, manage profiles, and improve online visibility.
+
+Debugged application issues, performed testing, and collaborated with team members to improve software reliability.
+
+Automated Railway Gate System — College Project
+
+Student Developer · Chennai, India · Sep 2023 – Jan 2025
+
+Designed and developed an automated railway gate safety system using Raspberry Pi, IR sensors, and motor control mechanisms.
+
+Implemented real-time train detection and automated gate control logic.
+
+Integrated hardware and software components while troubleshooting system issues.
+
+Featured Projects
+
+KhetLoom — Smart Farming System
+
+Node.js · Express.js · MongoDB · IoT · Machine Learning
+
+A full-stack smart farming platform focused on crop monitoring, fertilizer recommendations, and intelligent farming workflows.
+
+Highlights
+
+RESTful APIs and database management.
+
+Backend services using Node.js, Express.js, and MongoDB with MVC architecture.
+
+IoT sensor integration and ML-based insights for crop monitoring.
+
+Smart fertilizer recommendations and automated decision-making.
+
+DevInsight — AI Codebase Understanding Tool
+
+Angular · Node.js · Express.js · MongoDB · AI
+
+An AI-powered software analysis tool designed to help developers understand large codebases.
+
+Highlights
+
+Identifies architecture, APIs, routes, controllers, and database models.
+
+Recursive file scanning and backend analysis.
+
+Angular dashboard for project workflows, folder structures, and system architecture.
+
+AI-assisted analysis and documentation generation.
+
+Achievements
+
+100+ LeetCode problems solved in Data Structures and Algorithms.
+
+Finalist — National Hackathon, BITS Pilani, Goa Campus.
+
+Hackathon Winner at multiple college-level hackathons and ideathons.
+
+Participated in coding contests, hackathons, and technical quizzes.
+
+Certifications
+
+HackerRank JavaScript (Basic) Certification — JavaScript fundamentals, functions, and problem solving.
+
+Udemy Full Stack Web Development Bootcamp — hands-on frontend and backend web development.
+
+Skillsoft Data Structures and Algorithms Certification — sorting algorithms, data structures, and algorithmic problem solving.
+
+Java Programming Certification — Java fundamentals and object-oriented programming.
+
+Education
+
+Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology
+
+Bachelor of Technology in Computer Science and Engineering
+2023 – Present · Chennai, India
+CGPA: 8.3
+
+S.N.A Evening College, Barh
+
+Board of Intermediate Education (BSEB)
+2020 – 2022 · Barh, Bihar
+73.4%
+
+Saraswati Vidya Mandir, Barh
+
+Central Board of Secondary Education (CBSE)
+2017 – 2020 · Barh, Bihar
+68%
+
+DSA / Problem Solving
+
+I regularly practice Data Structures and Algorithms, with 100+ problems solved on LeetCode. My preparation focuses on:
+
+Arrays and Strings
+
+Hashing
+
+Two Pointers
+
+Sliding Window
+
+Binary Search
+
+Sorting
+
+Recursion and Backtracking
+
+Dynamic Programming
+
+Trees and Graphs
+
+Connect
+
+Email: singhraunakkumar@email.com
+
+Portfolio: https://protfolio-production.up.railway.app/
+
+GitHub: Add your actual GitHub profile URL
+
+LinkedIn: Add your actual LinkedIn profile URL
+
+<p align="center">
+  <sub>Built with a focus on software development, problem solving, and continuous learning.</sub>
+</p>
