@@ -1,11 +1,6 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raunakkumar-byte&label=Profile%20views&color=0e75b6&style=flat" alt="raunakkumar-byte" /> </p>
-
--
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raunakkumar-byte&" alt="raunakkumar-byte" /></p>
-
 Raunak Kumar
 
 <picture>
@@ -14,6 +9,13 @@ Raunak Kumar
   <img src="./dark.svg" alt="Raunak Kumar — Full-Stack Developer · Software Engineer">
 </picture>
 
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raunakkumar-byte&label=Profile%20views&color=0e75b6&style=flat" alt="raunakkumar-byte" /> </p>
+
+-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raunakkumar-byte&" alt="raunakkumar-byte" /></p>
 About
 
 I'm Raunak Kumar, a B.Tech Computer Science student focused on full-stack software development, data structures and algorithms, REST APIs, and database systems.
